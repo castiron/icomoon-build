@@ -24,8 +24,9 @@
   "license": "MIT",
   "dependencies": {
     "adm-zip": "~0.4.3",
-    "phantomjs": "~1.9.2-6",
-    "optimist": "~0.6.0"
+    "handlebars": "^4.0.5",
+    "optimist": "~0.6.0",
+    "phantomjs": "~1.9.2-6"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
