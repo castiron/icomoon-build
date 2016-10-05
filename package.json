@@ -26,7 +26,7 @@
     "adm-zip": "~0.4.3",
     "handlebars": "^4.0.5",
     "optimist": "~0.6.0",
-    "phantomjs": "~1.9.2-6"
+    "phantomjs-prebuilt": "^2.1.7",
   },
   "devDependencies": {
     "grunt": "~0.4.2",
